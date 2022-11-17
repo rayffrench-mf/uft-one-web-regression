@@ -1,4 +1,5 @@
 ﻿'Browser("about:blank").Navigate DataTable("StartingURL", dtGlobalSheet)
+'SVN token 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
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("TABLETS Shop Now").Click @@ hightlight id_;_10000000_;_script infofile_;_ZIP::ssf1.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Image("FirstImage").Click @@ hightlight id_;_10000000_;_script infofile_;_ZIP::ssf2.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("TABLETS").Click @@ hightlight id_;_10000000_;_script infofile_;_ZIP::ssf3.xml_;_
